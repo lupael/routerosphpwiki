@@ -24,7 +24,7 @@ To install manually, follow this steps-
 CHMOD
 ----
 Make writeable file html inside **pages** except index.html
-``shell
-chmod 664 pages/*.html
-chmod 644 pages/index.html
-``
+
+    chmod 664 pages/*.html
+    chmod 644 pages/index.html
+
