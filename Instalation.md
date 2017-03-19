@@ -21,3 +21,10 @@ To install manually, follow this steps-
 5. Import database. Database file is located here- system/install/phpmixbill.sql
 6. For security, Delete the install directory inside system folder.
 
+CHMOD
+----
+Make writeable file html inside **pages** except index.html
+``shell
+chmod 664 pages/*.html
+chmod 644 pages/index.html
+``
