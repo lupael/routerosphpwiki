@@ -10,3 +10,7 @@ Tugas menjadi lebih ringan, anda tinggal cek pendapatan di warung dan buat vouch
 phpmixbill hanya menjalankan tugas untuk pendaftaran dan menambahkan voucher oleh user.
 
 Untuk login hotspotnya sendiri masih menggunakan Mikrotik.
+
+* [Instalasi](https://github.com/ibnux/phpmixbill/wiki/Instalation)
+* [Setting Cron](https://github.com/ibnux/phpmixbill/wiki/Cron)
+* [Vouchers](https://github.com/ibnux/phpmixbill/wiki/Print-Vouchers)
